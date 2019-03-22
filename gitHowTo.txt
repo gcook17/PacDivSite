@@ -1,0 +1,11 @@
+
+git push -u origin master
+
+Remote URL  
+https://github.com/gcook17/PacDivSite.git
+Clone URL  
+ssh://pacarrl@pacific.arrl.org/home/pacarrl/repositories/PacDivSite 
+
+
+Repository Path  
+/home/pacarrl/repositories/PacDivSite 
