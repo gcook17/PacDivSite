@@ -346,3 +346,10 @@ footer a:hover{
     text-decoration: none;
     cursor: pointer;
 }
+
+figcaption {
+    font-size: 80%;
+    font-style: italic;
+    padding: 3px;
+    text-align: center;
+}
