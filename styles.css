@@ -353,3 +353,27 @@ figcaption {
     padding: 3px;
     text-align: center;
 }
+
+// twocolumnlist classes format an indented, multi-column list
+.twocolumnlist_row {
+    content: "";
+    display: table;
+    clear: both;
+    line-height: 0.3;
+    margin-left: 20px;
+    font-size: 85%;
+}
+
+.twocolumnlist_col_leftjust {
+    text-align: left;
+    float: left;
+    padding-left: 3px;
+    padding-right: 5px;
+ }
+
+.twocolumnlist_col_rightjust {
+    text-align: right;
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
