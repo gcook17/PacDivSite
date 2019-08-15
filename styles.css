@@ -10,7 +10,7 @@
 
 a, a:visited{
     text-decoration: none;
-    color: inherit;
+    color: #039be5;
 }
 a:hover {
     color: darkblue;
@@ -29,8 +29,13 @@ header:after {
     display: block;
     clear: both;
 }
+
     h1, h2, h3, h4{
     color: #336699;
+}
+
+h1 a, h1 a, h2 a, h2 a, h3 a, h3 a, h4 a, h4 a:visited {
+    color: #336699;    
 }
 
 h2 {
@@ -354,7 +359,6 @@ figcaption {
     text-align: center;
 }
 
-// twocolumnlist classes format an indented, multi-column list
 .twocolumnlist_row {
     content: "";
     display: table;
